@@ -1,0 +1,114 @@
+{
+    "employees": [
+        {
+            "id": 1,
+            "name": "Harlan",
+            "age": 46,
+            "department": "Support",
+            "gender": "Male",
+            "salary": "$649.17",
+            "image": "https://cdn3.vectorstock.com/i/1000x1000/30/97/flat-business-man-user-profile-avatar-icon-vector-4333097.jpg",
+            "mobile": "49848904434"
+        },
+        {
+            "id": 2,
+            "name": "Kassi",
+            "age": 46,
+            "department": "Sales",
+            "gender": "Female",
+            "salary": "$480.76",
+            "image": "https://cdn3.vectorstock.com/i/1000x1000/30/97/flat-business-man-user-profile-avatar-icon-vector-4333097.jpg",
+            "mobile": "89393929292"
+        },
+        {
+            "id": 3,
+            "name": "Abbot Bangley",
+            "age": 42,
+            "department": "Services",
+            "gender": "Male",
+            "salary": "$204.62",
+            "mobile": "3929291919",
+            "image": "https://w7.pngwing.com/pngs/831/88/png-transparent-user-profile-computer-icons-user-interface-mystique-miscellaneous-user-interface-design-smile-thumbnail.png"
+        },
+        {
+            "id": 4,
+            "name": "Melvin Borgnol",
+            "age": 57,
+            "department": "Support",
+            "gender": "Male",
+            "salary": "$492.91",
+            "mobile": "39296291719",
+            "image": "https://w7.pngwing.com/pngs/831/88/png-transparent-user-profile-computer-icons-user-interface-mystique-miscellaneous-user-interface-design-smile-thumbnail.png"
+        },
+        {
+            "id": 5,
+            "name": "Denny Dafter",
+            "age": 26,
+            "department": "Engineering",
+            "gender": "Female",
+            "salary": "$547.13",
+            "mobile": "440854484038",
+            "image": "https://w7.pngwing.com/pngs/831/88/png-transparent-user-profile-computer-icons-user-interface-mystique-miscellaneous-user-interface-design-smile-thumbnail.png"
+        },
+        {
+            "id": 6,
+            "name": "Marcille Bragger",
+            "age": 48,
+            "department": "Sales",
+            "gender": "Female",
+            "salary": "$962.45",
+            "mobile": "483209480329",
+            "image": "https://w7.pngwing.com/pngs/831/88/png-transparent-user-profile-computer-icons-user-interface-mystique-miscellaneous-user-interface-design-smile-thumbnail.png"
+        },
+        {
+            "id": 7,
+            "name": "Hervey Elsworth",
+            "age": 56,
+            "department": "Product Management",
+            "gender": "Male",
+            "salary": "$499.68",
+            "mobile": "34903284238",
+            "image": "https://w7.pngwing.com/pngs/831/88/png-transparent-user-profile-computer-icons-user-interface-mystique-miscellaneous-user-interface-design-smile-thumbnail.png"
+        },
+        {
+            "id": 8,
+            "name": "Austen Battlestone",
+            "age": 22,
+            "department": "Services",
+            "gender": "Male",
+            "salary": "$627.04",
+            "mobile": "48329084230098",
+            "image": "https://w7.pngwing.com/pngs/831/88/png-transparent-user-profile-computer-icons-user-interface-mystique-miscellaneous-user-interface-design-smile-thumbnail.png"
+        },
+        {
+            "name": "Ajay Singh",
+            "age": "39",
+            "image": "https://w7.pngwing.com/pngs/831/88/png-transparent-user-profile-computer-icons-user-interface-mystique-miscellaneous-user-interface-design-smile-thumbnail.png",
+            "gender": "Male",
+            "department": "IT",
+            "mobile": "8685434312",
+            "salary": "150000",
+            "id": 9
+        },
+        {
+            "name": "Amrit Maan",
+            "age": "34",
+            "image": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png",
+            "gender": "Male",
+            "department": "HR",
+            "mobile": "439437924398",
+            "salary": "50000",
+            "id": 10
+        },
+        {
+            "name": "Ankit",
+            "age": "19",
+            "image": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png",
+            "gender": "Male",
+            "department": "HR",
+            "mobile": "432904823094",
+            "salary": "40000",
+            "id": 11
+        }
+    ]
+}
